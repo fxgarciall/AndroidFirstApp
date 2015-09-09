@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/AfariaSLL.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ClientLib.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/sup-client.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/UltraLiteJNI12.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
