@@ -38,7 +38,7 @@ public class TestSampleActivity extends Activity
     private CustomerListAdapter adapter;
 
     private static volatile boolean initializationDone = false;
-
+	//Comentario para GitHub
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState)
